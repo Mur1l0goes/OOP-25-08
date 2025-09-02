@@ -1,5 +1,6 @@
 public class Televisao
 {
+    private const int VOL_MAX = 100;
     public Televisao(float tamanho)
     {
         Tamanho = tamanho;
@@ -15,7 +16,7 @@ public class Televisao
     public void AumentarVolume()
     {
         if (Volume < 100)
-            Volume = Volume + 1;
+            Volume = Volume ++;
         else
             Console.WriteLine("TV já está no max.");
     }
