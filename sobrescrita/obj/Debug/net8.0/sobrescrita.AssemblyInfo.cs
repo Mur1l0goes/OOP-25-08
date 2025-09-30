@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sobrescrita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc2db26aac3fabc0b2aa3bf3b942e776dbedaaee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b6d79baead699fc432ef529b5a8084ff553b76e")]
 [assembly: System.Reflection.AssemblyProductAttribute("sobrescrita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sobrescrita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
