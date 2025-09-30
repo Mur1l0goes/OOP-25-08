@@ -1,0 +1,15 @@
+/workspaces/OOP-25-08/sobrescrita/bin/Debug/net8.0/sobrescrita
+/workspaces/OOP-25-08/sobrescrita/bin/Debug/net8.0/sobrescrita.deps.json
+/workspaces/OOP-25-08/sobrescrita/bin/Debug/net8.0/sobrescrita.runtimeconfig.json
+/workspaces/OOP-25-08/sobrescrita/bin/Debug/net8.0/sobrescrita.dll
+/workspaces/OOP-25-08/sobrescrita/bin/Debug/net8.0/sobrescrita.pdb
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.AssemblyInfoInputs.cache
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.AssemblyInfo.cs
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.csproj.CoreCompileInputs.cache
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.sourcelink.json
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.dll
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/refint/sobrescrita.dll
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.pdb
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/sobrescrita.genruntimeconfig.cache
+/workspaces/OOP-25-08/sobrescrita/obj/Debug/net8.0/ref/sobrescrita.dll
